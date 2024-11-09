@@ -1,12 +1,8 @@
-# Contribution to [Empyrean](https://github.com/addi00000/empyrean)
+# Contribution to [SOGZ](https://github.com/DLindustries/SOGZ)
 
 ## Feature Requests
 
-A feature request is a request for a new feature or an enhancement to an existing feature. 
-
-Generally features are requested through the use of the [feature request template](https://github.com/addi00000/empyrean/blob/main/.github/ISSUE_TEMPLATE/feature_request.md).
-
-Ensure you do not create a duplicate feature request by searching through the [existing feature requests](https://github.com/addi00000/empyrean/issues?q=is%3Aissue+label%3Aenhancement++%5BFEAT.%5D+)
+A feature request is a request for a new feature or an enhancement to an existing feature.
 
 Please give detailed information about the feature you are requesting in order for it to be best implemented and note that feature requests are not guaranteed to be implemented.
 
@@ -14,15 +10,12 @@ Please give detailed information about the feature you are requesting in order f
 
 A bug report is a report of a bug or issue in the software.
 
-Generally bugs are reported through the use of the [bug report template](https://github.com/addi00000/empyrean/blob/main/.github/ISSUE_TEMPLATE/bug_report.md)
-
-Ensure you do not create a duplicate bug report by searching through the [existing bug reports](https://github.com/addi00000/empyrean/issues?q=is%3Aissue+is%3Aclosed+label%3Abug)
 
 Please make sure to include as much information as possible in your bug report. This includes:
 
-- The version of Empyrean you are using
+- The version of SOGZ you are using
 - The version of Python you are using
-- The operating system you are using
+- The operating system you are using - if you use any other than windows on execution this will not be possible
 - The steps to reproduce the bug
 - The expected behaviour
 - The actual behaviour
